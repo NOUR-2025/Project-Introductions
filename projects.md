@@ -20,9 +20,9 @@
 
 ## Yang Ye
 
-**Title: Enhancing Robotic Instruction Understanding through Multimodal Human Cues**
+**Title:** Enhancing Robotic Instruction Understanding through Multimodal Human Cues
 
-**Summary: This project investigates how integrating human gaze (eye-tracking) and manual gestures with spoken language instructions can improve a robot’s ability to understand and execute commands. By analyzing multimodal inputs—eye movement, hand movement, and verbal utterances—the system aims to bridge the gap between natural human communication and machine interpretation, paving the way for more intuitive and accurate human-robot interaction.**
+**Summary:** This project investigates how integrating human gaze (eye-tracking) and manual gestures with spoken language instructions can improve a robot’s ability to understand and execute commands. By analyzing multimodal inputs—eye movement, hand movement, and verbal utterances—the system aims to bridge the gap between natural human communication and machine interpretation, paving the way for more intuitive and accurate human-robot interaction.
 
 ***
 
