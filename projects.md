@@ -9,11 +9,12 @@
 
 ***
 
-## Daphne Griffin
+## Daphne Giffin
 
-**Title:**
+**Title:** Visual Analysis and Machine Learning Detection of Network Attacks
 
-**Summary:**
+**Summary:** This project focuses on understanding and analyzing the CIC-IDS2017 dataset to detect network intrusions using machine learning. At first, the goal is to visually inspect network traffic using Python to identify differences between attack and non-attack periods. This initial analysis will help build a foundation for selecting relevant features, understanding attack patterns, and developing effective models for intrusion detection in later phases of the project.
+
 
 ***
 
