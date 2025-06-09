@@ -51,9 +51,9 @@
 
 ## Yifei Tian
 
-**Title:**
+**Title:**Making Quantum Information Science More Understandable for Students K-12
 
-**Summary:**
+**Summary:**By using LLMS and game models, make complex topics in QIS and Quantum Computing more digestible for students. Quantum Computing uses various abstract concepts from physics and linear algebra. By making technology more tailored to students in high school, I hope to examine the most effective ways to teach these topics.
 
 ***
 
