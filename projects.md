@@ -5,7 +5,7 @@
 
 **Title:** Air Quality Control Monitor in Hazelwood
 
-**Summary:**
+**Summary:** Using the data collected from Purple Air sensors planted in the neighborhood and analyze it. Our goal to see if we can use these raw data and see if we can help improve the air quality in the neighborhood. 
 
 ***
 
