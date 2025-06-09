@@ -3,9 +3,9 @@
 
 ## Saung Oo
 
-**Title:**
+**Title:** Air Quality Control Monitor in Hazelwood
 
-**Summary:**
+**Summary:** We will be analyzing data collected from Purple Air sensors installed in the neighborhood, with the goal of using this raw data to explore ways to help improve local air quality.
 
 ***
 
@@ -20,9 +20,9 @@
 
 ## Yang Ye
 
-**Title:**
+**Title: Enhancing Robotic Instruction Understanding through Multimodal Human Cues**
 
-**Summary:**
+**Summary: This project investigates how integrating human gaze (eye-tracking) and manual gestures with spoken language instructions can improve a robot’s ability to understand and execute commands. By analyzing multimodal inputs—eye movement, hand movement, and verbal utterances—the system aims to bridge the gap between natural human communication and machine interpretation, paving the way for more intuitive and accurate human-robot interaction.**
 
 ***
 
@@ -52,9 +52,9 @@
 
 ## Yifei Tian
 
-**Title:**
+**Title:**Making Quantum Information Science More Understandable for Students K-12
 
-**Summary:**
+**Summary:**By using LLMS and game models, make complex topics in QIS and Quantum Computing more digestible for students. Quantum Computing uses various abstract concepts from physics and linear algebra. By making technology more tailored to students in high school, I hope to examine the most effective ways to teach these topics.
 
 ***
 
