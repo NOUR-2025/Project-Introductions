@@ -60,9 +60,10 @@
 
 ## Zhenyu Wu
 
-**Title:**
+**Title:** A Chatbot Customized for Women's Physical and Mental Health
 
-**Summary:**
+**Summary:** The goal of this project is to design a chatbot aimed at providing personalized physiological and mental health consultation services for women. Utilizing natural language processing and affective computing, the chatbot can identify user needs and offer advice on menstruation, pregnancy, childcare, and other related issues, while also helping to alleviate anxiety, stress, and emotional distress. Our aim is to create an intelligent and empathetic virtual assistant that provides accurate health support for women in their daily lives, while ensuring data privacy and security.
+
 
 ***
 
