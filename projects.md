@@ -27,9 +27,9 @@
 
 ## Sean Jacobs
 
-**Title:**
+**Title:** Mental health support on online forums across various demographics
 
-**Summary:**
+**Summary:** This project is aimed at analyzing the effectiveness of mental health support on online forums and how the preferences of different demographics vary when seeking support. Additionally, we are analyzing how LLM-based chat bots are able to provide mental health support based on these varying preferences. The four main demographics that this project focuses on are gender, military, employment, and parenting.
 
 ***
 
