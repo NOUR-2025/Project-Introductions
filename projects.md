@@ -83,6 +83,6 @@
 
 ## Alejandro Ciuba
 
-**Title:** Working with langauge communities in the field of low-resource NLP
+**Title:** Langauge communities and the field of low-resource NLP
 
 **Summary:** This work is a literature survey exploring how the natural-language processing (NLP) research field currently works with speakers of low-resource languages. Low-resource languages are those where NLP systems (e.g., machine translation, speech-to-text, autocomplete, datasets) are sparsely available. This work examines in what ways do NLP researchers interact with speakers from these communities and discusses how HCI scholarship can help NLP foster better community relations.
